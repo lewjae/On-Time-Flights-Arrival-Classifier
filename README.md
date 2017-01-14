@@ -21,7 +21,7 @@ Predict on-time arrivals of airlines among top 10 busiest airports.  Flight data
   * SVM
   * Logistic Regression
   * GaussianNB
-7. Cross-validate within train set and downselect
+7. K-fold cross-validate within train set and downselect
 8. Fine tune with GridSearchCV
 9. Evaluate the classifier performance on the test set (=unseen data)
 
