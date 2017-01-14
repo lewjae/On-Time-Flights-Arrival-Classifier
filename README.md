@@ -14,7 +14,7 @@ Predict on-time arrivals of airlines among top 10 busiest airports.  Flight data
   * Convert categorical data into binary format using "pd.get_dummies' ( =LabelEncoder + OneHotEncoder)
   * Scale Data - not needed this application 
 4. Split data in training and test set
-5. Appy PCA on X_train - See if you can reduce # of features
+5. Appy PCA on X_train to reduce dimensionality
 6. Try out a few classifiers on the train set
   * Decision Tree
   * Random Forest
